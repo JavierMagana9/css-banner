@@ -36,7 +36,7 @@ The objective of this exercise is to become familiar with basic HTML structure a
 
 To view the web page, simply open the `index.html` file in a web browser. The page will display an image with a caption centered over it.
 
-# Proyecto de HTML y CSS
+# (ESPAÑOL) Proyecto de HTML y CSS
 
 ## Descripción
 
